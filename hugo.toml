@@ -1,0 +1,17 @@
+baseURL = 'https://leonahxu/LeonaFilm.github.io/'
+languageCode = 'en-us'
+title = 'Home'
+theme = 'gallery'
+copyright = "© Leona"
+
+[params]
+  defaultTheme = "dark"
+  description = "film collections"
+  title = "My Film"
+  [params.author]
+    email = "huixu368@gmail.com"
+    name = "Hui Xu"
+  [params.socialIcons]
+    website = "https://example.com"
+    #instagram = "https://www.instagram.com/"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"

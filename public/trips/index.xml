@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everywhere on Home</title>
+    <link>http://localhost:1313/LeonaFilm.github.io/trips/</link>
+    <description>Recent content in Everywhere on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>huixu368@gmail.com (Hui Xu)</managingEditor>
+    <webMaster>huixu368@gmail.com (Hui Xu)</webMaster>
+    <copyright>© Leona</copyright>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/LeonaFilm.github.io/trips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seoul</title>
+      <link>http://localhost:1313/LeonaFilm.github.io/trips/seoul/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate><author>huixu368@gmail.com (Hui Xu)</author>
+      <guid>http://localhost:1313/LeonaFilm.github.io/trips/seoul/</guid><media:content url="http://localhost:1313/LeonaFilm.github.io/trips/seoul/000048400022_huba9b38ced682e715116087645f2f9f64_5597206_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/LeonaFilm.github.io/trips/seoul/000048400022_huba9b38ced682e715116087645f2f9f64_5597206_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;2024/06 Seoul Kodak Gold 200&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Taiwan</title>
+      <link>http://localhost:1313/LeonaFilm.github.io/trips/taiwan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>huixu368@gmail.com (Hui Xu)</author>
+      <guid>http://localhost:1313/LeonaFilm.github.io/trips/taiwan/</guid><media:content url="http://localhost:1313/LeonaFilm.github.io/trips/taiwan/0022_19_hua80c4555bc3a2249043facd02946ed79_2823709_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/LeonaFilm.github.io/trips/taiwan/0022_19_hua80c4555bc3a2249043facd02946ed79_2823709_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;2024/03  Kodak Ultra 400&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Wanning</title>
+      <link>http://localhost:1313/LeonaFilm.github.io/trips/hainan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>huixu368@gmail.com (Hui Xu)</author>
+      <guid>http://localhost:1313/LeonaFilm.github.io/trips/hainan/</guid><media:content url="http://localhost:1313/LeonaFilm.github.io/trips/hainan/000038_hub32208cb3b466249088ef72e02687ca0_11937433_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/LeonaFilm.github.io/trips/hainan/000038_hub32208cb3b466249088ef72e02687ca0_11937433_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;2023/05 Goofy dog&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

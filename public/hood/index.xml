@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hood on Home</title>
+    <link>http://localhost:1313/LeonaFilm.github.io/hood/</link>
+    <description>Recent content in Hood on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>huixu368@gmail.com (Hui Xu)</managingEditor>
+    <webMaster>huixu368@gmail.com (Hui Xu)</webMaster>
+    <copyright>© Leona</copyright><atom:link href="http://localhost:1313/LeonaFilm.github.io/hood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1037</title>
+      <link>http://localhost:1313/LeonaFilm.github.io/hood/hust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>huixu368@gmail.com (Hui Xu)</author>
+      <guid>http://localhost:1313/LeonaFilm.github.io/hood/hust/</guid><media:content url="http://localhost:1313/LeonaFilm.github.io/hood/hust/2eba56bd5ra3125ea15b010c2e054e96_huc8f67b1c04716b3f9d5d40d5a83b0af8_6365651_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/LeonaFilm.github.io/hood/hust/2eba56bd5ra3125ea15b010c2e054e96_huc8f67b1c04716b3f9d5d40d5a83b0af8_6365651_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;Memo of last few months in HUST&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Changsha</title>
+      <link>http://localhost:1313/LeonaFilm.github.io/hood/cs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>huixu368@gmail.com (Hui Xu)</author>
+      <guid>http://localhost:1313/LeonaFilm.github.io/hood/cs/</guid><media:content url="http://localhost:1313/LeonaFilm.github.io/hood/cs/3d3263cf8tc3f4af80f901ec29c1d0ca_hu67b03992ff965470247d24c75d1744dc_4768372_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/LeonaFilm.github.io/hood/cs/3d3263cf8tc3f4af80f901ec29c1d0ca_hu67b03992ff965470247d24c75d1744dc_4768372_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Kaifu citizen&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hong Kong</title>
+      <link>http://localhost:1313/LeonaFilm.github.io/hood/hk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>huixu368@gmail.com (Hui Xu)</author>
+      <guid>http://localhost:1313/LeonaFilm.github.io/hood/hk/</guid><media:content url="http://localhost:1313/LeonaFilm.github.io/hood/hk/58e9f2e20lc30688651cb5044986223d_hucef489c50257d418c3c5e060db109a66_4350173_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/LeonaFilm.github.io/hood/hk/58e9f2e20lc30688651cb5044986223d_hucef489c50257d418c3c5e060db109a66_4350173_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Sheung wan&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

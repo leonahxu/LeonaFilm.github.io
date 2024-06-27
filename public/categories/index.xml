@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home</title>
+    <link>http://localhost:1313/LeonaFilm.github.io/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>huixu368@gmail.com (Hui Xu)</managingEditor>
+    <webMaster>huixu368@gmail.com (Hui Xu)</webMaster>
+    <copyright>© Leona</copyright><atom:link href="http://localhost:1313/LeonaFilm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
