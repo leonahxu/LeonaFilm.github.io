@@ -5,7 +5,11 @@ date: 2024-06-27
 title: Seoul
 #type: gallery
 weight: 2
+<<<<<<< Updated upstream
 featured_image: 000048400015.jpg 
+=======
+featured_image: 000048400015.jpg
+>>>>>>> Stashed changes
 #featured: true
 #private: true # do not show in list, only as feature
 params:
